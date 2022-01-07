@@ -2,7 +2,7 @@
 
 Common files must be in the matlab path when running simulations
 
-Copy files for the specific model to a new folder to run a new sim
+Copy files for the specific model files to a new folder to run a new sim
 
 Edit the 'Run_dsimIterative.m' script and change simulation variables to be tested
 
